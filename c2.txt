@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1
 2
 3
+=======
+This c2.txt is added to feature branch
+>>>>>>> f-b
